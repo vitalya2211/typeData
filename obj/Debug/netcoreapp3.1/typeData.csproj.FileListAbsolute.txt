@@ -1,0 +1,14 @@
+C:\Users\vitalya\source\repos\typeData\bin\Debug\netcoreapp3.1\typeData.exe
+C:\Users\vitalya\source\repos\typeData\bin\Debug\netcoreapp3.1\typeData.deps.json
+C:\Users\vitalya\source\repos\typeData\bin\Debug\netcoreapp3.1\typeData.runtimeconfig.json
+C:\Users\vitalya\source\repos\typeData\bin\Debug\netcoreapp3.1\typeData.runtimeconfig.dev.json
+C:\Users\vitalya\source\repos\typeData\bin\Debug\netcoreapp3.1\typeData.dll
+C:\Users\vitalya\source\repos\typeData\bin\Debug\netcoreapp3.1\typeData.pdb
+C:\Users\vitalya\source\repos\typeData\obj\Debug\netcoreapp3.1\typeData.csproj.AssemblyReference.cache
+C:\Users\vitalya\source\repos\typeData\obj\Debug\netcoreapp3.1\typeData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitalya\source\repos\typeData\obj\Debug\netcoreapp3.1\typeData.AssemblyInfoInputs.cache
+C:\Users\vitalya\source\repos\typeData\obj\Debug\netcoreapp3.1\typeData.AssemblyInfo.cs
+C:\Users\vitalya\source\repos\typeData\obj\Debug\netcoreapp3.1\typeData.csproj.CoreCompileInputs.cache
+C:\Users\vitalya\source\repos\typeData\obj\Debug\netcoreapp3.1\typeData.dll
+C:\Users\vitalya\source\repos\typeData\obj\Debug\netcoreapp3.1\typeData.pdb
+C:\Users\vitalya\source\repos\typeData\obj\Debug\netcoreapp3.1\typeData.genruntimeconfig.cache
